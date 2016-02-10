@@ -3,13 +3,19 @@ body {
 }
 
 @media screen and (min-width: 675px) {
-    background-color: rgb(255, 204, 102);
+    body {
+        background-color: rgb(255, 204, 102);
+    }
 }
 
 @media screen and (min-width: 999px) {
-    background-color: rgb(255, 153, 102);
+    body {
+        background-color: rgb(255, 153, 102);
+    }
 }
 
 @media screen and (min-width: 1280px) {
-    background-color: rgb(255, 102, 102);
+    body {
+        background-color: rgb(255, 102, 102);
+    }
 }
