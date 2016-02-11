@@ -1,7 +1,7 @@
 
 #Media Queries Readme
 
-[GitHub Link](https://github.com/adibella/hw_javascript_dibella_andrew)
+[GitHub Link](https://github.com/adibella/hw_mq_dibella_andrew)
 
 ##Resources Used
 * **Using Media Queries, Mozilla Developer Network**: Linked from Canvas, I used this resource as a means to gain some further understanding on the "combo" portion of the assignment.  
